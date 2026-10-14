@@ -1,0 +1,27 @@
+[
+{
+"id": 1,
+"name": "Laptop",
+"description": "Sample electronic item"
+},
+{
+"id": 2,
+"name": "Keyboard",
+"description": "Computer accessory"
+},
+{
+"id": 3,
+"name": "Mouse",
+"description": "Wireless computer mouse"
+},
+{
+"id": 4,
+"name": "Monitor",
+"description": "Full HD monitor"
+},
+{
+"id": 5,
+"name": "Headphones",
+"description": "Audio headphones"
+}
+]
