@@ -101,3 +101,14 @@ The current application stores item changes in memory. Data added or modified th
 ## Internship
 
 Developed as part of the SWYNEX internship.
+
+## Live Deployment
+
+* **Live Backend URL:** https://swynex-task4-backend.onrender.com/
+* **Health Check:** https://swynex-task4-backend.onrender.com/health
+* **Get All Items:** https://swynex-task4-backend.onrender.com/api/items
+* **Get Item by ID:** https://swynex-task4-backend.onrender.com/api/items/1
+
+## GitHub Repository
+
+https://github.com/malviyaharshita0501-ai/SWYNEX-Deployable-Backend-Service
